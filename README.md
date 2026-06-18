@@ -129,6 +129,8 @@ An interactive **Power BI Dashboard** is included to provide a visual breakdown 
 Check [`Dashboard/China.pbix`](Dashboard/China.pbix) to explore the interactive report.
 
 ![China Investment Dashboard](Dashboard/China%20Intro.jpg)
+<img width="1281" height="718" alt="Screenshot 2026-06-18 143218" src="https://github.com/user-attachments/assets/28801176-76f0-4a03-967a-3f7ca2a175b1" />
+
 
 ---
 
