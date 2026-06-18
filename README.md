@@ -158,6 +158,6 @@ Open `notebook.ipynb` 📒 to see the full analysis.
 
 ## Author ✍️
 
-- **Name**: Mohammed Younis
+- **Name**: Mohamed Younis
 
 ---
